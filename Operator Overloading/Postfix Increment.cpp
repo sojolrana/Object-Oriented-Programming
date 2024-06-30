@@ -20,7 +20,7 @@ public:
 };
 
 int main(){
-    cord a(2, 1), b(3, 1), c, d;
+    cord a(2, 1);
     a++.show();
     a.show();
     return 0;
